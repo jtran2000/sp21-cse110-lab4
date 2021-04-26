@@ -1,13 +1,13 @@
 ## Part 3
 
-![Breakpoint](breakpoint.png)
+![Breakpoint](./breakpoint.png)
 
-![Watch Expressions](watchexpression.png)
+![Watch Expressions](./watchexpression.png)
 
 1. The bug is that `num1` and `num2` are strings and therefore the operation being performed is string concatenation instead of addition
 2. I would use the Number function to parse the strings into numbers.
    
-   ![Bug Fixed](bugfix.png)
+   ![Bug Fixed](./bugfix.png)
 
 3. citylots.json
 4. part2.js
